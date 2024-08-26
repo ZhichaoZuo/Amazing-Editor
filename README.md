@@ -43,12 +43,4 @@ Amazing Editor 功能介绍
 - 根据文本提示
 
    <img src=./images/bc.PNG width="196"> <img src=./images/bc1.PNG width="196" > <img src=./images/bc2.PNG width="196"> <img src=./images/bc3.JPG width="196">
-##### **模型路径** 
-StableDiffusion权重: /data/vjuicefs_hz_cv_enhance_v1/public_data/11103392/ldm/stable-diffusion-v1-5
 
-Sd-inpaint权重： /data/vjuicefs_hz_cv_enhance_v1/public_data/11103421/aigc_pretrain_model/pretrained_models/big-lama
-
-models权重：/data/vjuicefs_hz_cv_enhance_v1/public_data/11103421/aigc_pretrain_model/pretrained_models/models
-
-repositories：/data/vjuicefs_hz_cv_enhance_v1/public_data/11103421/aigc_pretrain_model/pretrained_models/repositories
-models和repositories较大，需要手动copy到当前目录下即可
