@@ -44,3 +44,8 @@ Amazing Editor 功能介绍
 
    <img src=./images/bc.PNG width="196"> <img src=./images/bc1.PNG width="196" > <img src=./images/bc2.PNG width="196"> <img src=./images/bc3.JPG width="196">
 
+
+### AIOS智能创新大赛
+<img src=./images/award1.JPG>
+<img src=./images/money.JPG>
+<img src=./images/prize.JPG>
